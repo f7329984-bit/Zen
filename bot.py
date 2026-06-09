@@ -13,7 +13,7 @@ API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Apna Telegram ID yaha daalo
-SUDO_USERS = [8542144766]
+SUDO_USERS = [8660278595]
 
 app = Client(
     "custombot",
